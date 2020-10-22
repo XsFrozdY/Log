@@ -1,0 +1,2 @@
+# Log
+OBS Crash Log
